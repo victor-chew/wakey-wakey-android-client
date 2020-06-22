@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="wakey-wakey-android-client/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wakey-wakey-android-client.iml" filepath="$PROJECT_DIR$/.idea/modules/wakey-wakey-android-client.iml" group="wakey-wakey-android-client" />
+    </modules>
+  </component>
+</project>

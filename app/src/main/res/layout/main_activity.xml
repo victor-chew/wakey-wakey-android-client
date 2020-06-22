@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/appToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="25dp" />
+
+    <TextView
+        android:id="@+id/lblListCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lbl_listcode"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/editListCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textCapCharacters" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="25dp" />
+
+    <TextView
+        android:id="@+id/lblListName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lbl_listname"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/editListName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="25dp" />
+
+    <TextView
+        android:id="@+id/lblListPin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lbl_listpin"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/editListPin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="25dp" />
+
+    <TextView
+        android:id="@+id/lblTags"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lbl_tags"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/editTags"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textCapCharacters" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="25dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/btnRunStop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onRunStop"
+            app:srcCompat="@android:drawable/ic_media_play" />
+
+        <ImageButton
+            android:id="@+id/btnViewLog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:onClick="onViewLog"
+            app:srcCompat="@android:drawable/ic_menu_info_details" />
+
+    </LinearLayout>
+
+</LinearLayout>

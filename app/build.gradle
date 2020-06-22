@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        release {
+            storeFile file('C:\\Temp\\OpenAlarm-master\\keystore.jks')
+            storePassword 'new254frontier'
+            keyAlias 'key0'
+            keyPassword 'new254frontier'
+        }
+    }
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+    defaultConfig {
+        applicationId 'org.randseq.wakeywakey'
+        minSdkVersion 19
+        targetSdkVersion 19
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+}
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:25.0.1'
+    compile 'com.android.support:appcompat-v7:25.0.1'
+    compile 'com.google.code.gson:gson:2.7'
+    compile group: 'com.cloudant', name: 'cloudant-sync-datastore-android', version:'latest.release'
+}

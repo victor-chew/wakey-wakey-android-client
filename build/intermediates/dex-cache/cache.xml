@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="V:\github-vc\wakey-wakey\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f3669d2340ff07fd894c2c64fab42175c3547960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="V:\github-vc\wakey-wakey\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_666a8697f6ecb79e79b1b7b1123e450c20fefb43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="V:\github-vc\wakey-wakey\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_584e3413128cf07f7d9e1ce1dcd12a8c95a73856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="V:\github-vc\wakey-wakey\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_97b518c543b497f2bdee10a08c7b0b0ccd8194d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="V:\github-vc\wakey-wakey\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_cbafa7888447e4b78ad817c4b066c6c4390a5e5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="V:\github-vc\wakey-wakey\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_8d4ffe7e4f48564bae38a0e51ed9a25379f3b1ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="V:\github-vc\wakey-wakey\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_62d1d41b9812704e1f9671305eaf807ef0c0e51e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="V:\github-vc\wakey-wakey\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_1ddea0b7844a5746bee78c74eb2cdf8af0eabce5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.1.1\38d2b3c0c89af5b937fd98c3e558bf6b58c14aa2\jackson-databind-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38d2b3c0c89af5b937fd98c3e558bf6b58c14aa2">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\jackson-databind-2.1.1_50188836a0774df80445d3a6264148e0211b101e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="V:\github-vc\wakey-wakey\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_cf64b21ee25b57ae0015f9237a7d7962917ae79c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="V:\github-vc\wakey-wakey\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_b6d2fd1c48073550899c75352201f19a8b737239.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\com.cloudant\cloudant-sync-datastore-android\2.4.1\7428249bffbd54ab6d68ab197ec768702dcabb2d\cloudant-sync-datastore-android-2.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7428249bffbd54ab6d68ab197ec768702dcabb2d">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\cloudant-sync-datastore-android-2.4.1_9fbd380cd47de2237f8cfa09ae845900bab3ab31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.0.1\a09194311f8f89c3e6db09d79f50897a889d615e\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_e07431df84498d33a5108ece5259c925209bbf28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\com.cloudant\cloudant-http\2.19.0\38fc24db9c67da5d2d368451ff87690f6205c9f0\cloudant-http-2.19.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38fc24db9c67da5d2d368451ff87690f6205c9f0">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\cloudant-http-2.19.0_22fdf4ce67b0d2ad58c4149a3b5fad649251d41b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.1.1\b01cc83e745fc4425a3968fafbf8e5b8254a6dd\jackson-annotations-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b01cc83e745fc4425a3968fafbf8e5b8254a6dd">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.1.1_0a32eb6e84afc53efafe1567112f6a26f313e46a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.10\4b95f4897fa13f2cd904aee711aeafc0c5295cd8\commons-codec-1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\commons-codec-1.10_347c3b5e86cf87f37fe5772b944191925e7f893d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.1\82ad1c5f92f6dcc6291f5c46ebacb975eaa844de\jackson-core-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82ad1c5f92f6dcc6291f5c46ebacb975eaa844de">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.1_529b62f83d1627e5f226e751aba5cd616d852963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="V:\github-vc\wakey-wakey\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_67164fbfa65013282ba7381d48ad8857c3315d96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\commons-io-2.4_b86b21f3b7bbe835c0922a88568723520643238a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\gson-2.7_6ab4819cbb02dce3bca69f456a8751da44525670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="V:\github-vc\wakey-wakey\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_4984db7fc18eb08439c47712ad6f88ad413fa04d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="V:\github-vc\wakey-wakey\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_360b5e767a4c9026d839716078a0fccc1d5c01b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Victor\.gradle\caches\modules-2\files-2.1\com.cloudant\cloudant-sync-datastore-core\2.4.1\3cec2e82a03039a857f35a430ca8b7ade8e76da7\cloudant-sync-datastore-core-2.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3cec2e82a03039a857f35a430ca8b7ade8e76da7">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\cloudant-sync-datastore-core-2.4.1_ff205fcd8d6c67b87d8ed2a8d11e09dfff63d444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="V:\github-vc\wakey-wakey\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="V:\github-vc\wakey-wakey\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_4d1882e050aa625d30fef9dfbc5dc8ad661a2af2.jar" />
+    </item>
+
+</items>

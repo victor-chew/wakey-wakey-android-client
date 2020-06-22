@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Wakey Wakey</string>
+    <string name="lbl_listcode">Quick Access Code</string>
+    <string name="lbl_listname">List Name</string>
+    <string name="lbl_listpin">List PIN</string>
+    <string name="lbl_tags">Tags (Optional)</string>
+    <string name="error_listname_pin">Please enter access code, or list name and PIN.</string>
+</resources>
