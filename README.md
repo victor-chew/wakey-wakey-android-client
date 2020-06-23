@@ -8,7 +8,7 @@ This repository is for the Android client that reads the alarm schedule from the
 
 For something as humble as an  alarm clock app, it actually turned out to be rather difficult to implement. I originally wanted to write it in Javascript using a toolkit such as Cordova, but after much research, it did not appear to be very feasible. There is a whole lot of platform-specific stuff to deal with, such as:
 
-* how to run periodically in the background to schedule alarams
+* how to run periodically in the background to schedule alarms
 
 * how to activate the alarm, even if the application is not in the foreground, or the phone is asleep
 
