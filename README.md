@@ -26,7 +26,7 @@ Replication happens in the background to a local database, so the alarm clock wi
 ![Screenshot](https://wakey.randseq.org/screenshots/screenshot03.png "Screenshot 1")
 
 # Download
-![Ver 0.1.0 APK](https://wakey.randseq.org/android/wakeywakey-0.1.0.apk "Ver 0.1.0 APK")
+![Ver 0.1.0 APK](https://wakey.randseq.org/android/wakeywakey-0.1.0.apk)
 
 # Libraries used
 * [Cloudant Sync for Android](https://github.com/cloudant/sync-android) For syncing with the couchdb database.
