@@ -142,10 +142,10 @@ public class AlarmList {
             int day = Arrays.asList(days).indexOf(token);
             if (day >= 0) repeat[day] = true;
             else if (token.equals("WEEKDAYS")) {
-                for (int i=0; i<5; i++) repeat[i] = true;
+                for (int i=1; i<=5; i++) repeat[i] = true;
             }
             else if (token.equals("WEEKENDS")) {
-                for (int i=5; i<7; i++) repeat[i] = true;
+                repeat[0] = repeat[6] = true;
             }
             else if (token.length() == 4 && token.charAt(0) != '#') {
                 boolean valid = true;
