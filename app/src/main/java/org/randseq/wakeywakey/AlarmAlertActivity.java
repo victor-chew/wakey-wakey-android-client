@@ -105,7 +105,7 @@ public class AlarmAlertActivity extends Activity {
     public class ClickListener implements View.OnClickListener {
         @Override
         public void onClick(View v) {
-            // finish();
+            finish();
         }
     }
 
